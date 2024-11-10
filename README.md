@@ -1,4 +1,4 @@
-Codes for the paper: “Magnetic Hysteresis Modeling with Neural Operators”, IEEE Transactions on Magnetics
+##Codes for the paper: “Magnetic Hysteresis Modeling with Neural Operators”, IEEE Transactions on Magnetics
 
 Repository Structure
 
@@ -80,4 +80,3 @@ cd src/testing/FORC/
 Run the testing script:
 
 python3 RIFNO_test.py
-# Magnetic_Hysteresis_Neural_Operator
