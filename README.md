@@ -1,4 +1,4 @@
-## Codes for the paper: “Magnetic Hysteresis Modeling with Neural Operators”, IEEE Transactions on Magnetics
+## Codes for the paper: “Magnetic Hysteresis Modeling with Neural Operators”, IEEE Transactions on Magnetics DOI: doi.org/10.1109/TMAG.2024.3496695
 
 Repository Structure
 
